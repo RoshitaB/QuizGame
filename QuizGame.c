@@ -22,7 +22,7 @@ struct Board s; //declaration
 int main()
 {
 int n;
-system("color F1"); //background and font color
+system("color 70"); //background and font color
 printf("\n\t\t\tWELCOME!!\t\t\t\n\n");
 printf("\n\tTHIS IS A QUIZ GAME MADE BY P9 GROUP !!!\t\t\t\n\n");
 printf("******************MENU******************\n\n");
